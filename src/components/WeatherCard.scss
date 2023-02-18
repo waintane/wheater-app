@@ -1,3 +1,58 @@
 .WeatherCard{
-    
+    background-color: rgba(20, 20, 20, 0.836);
+
+    color: white;
+
+    width: clamp(100px, 80vw, 400px);
+    height: clamp(150px, 100vw, 320px);
+    padding: 30px 10px;
+
+    border-radius: 20px;
+
+    .content{
+        margin: 0px auto;
+        width: 80%;
+
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+
+        .temp{
+            font-size: clamp(30px, 2vw, 40px);
+        }
+        .icon{
+            margin-top: 20px;
+            height: 80px;
+            width: 80px;
+        }
+        .Clouds{
+            height: 100%;
+            width: 100%;
+            background-image: url("../../img/icon/nuageux.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .Rain{
+            height: 100%;
+            width: 100%;
+            background-image: url("../../img/icon/pluits.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .Clear{
+            height: 100%;
+            width: 100%;
+            background-image: url("../../img/icon/soleil.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .Snow{
+            height: 100%;
+            width: 100%;
+            background-image: url("../../img/icon/il-neige.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    }
+
 }

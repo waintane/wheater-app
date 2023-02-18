@@ -1,3 +1,31 @@
 .SearchBar{
-    
+    width: 100%;
+    margin-bottom: 30px;
+    form{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        #search{
+            background-color: rgba(255, 255, 255, 0.151);
+            color: white;
+            width: 70%;
+            font-size: clamp(20px,1.2vw,30px);
+            height: clamp(30px, 2.5vw, 30px);
+            padding: 5px 20px;
+            border: none;
+            border-radius: 20px;
+        }
+        button{
+            width: 10%;
+            background-color: rgba(255, 255, 255, 0.151);
+            border: none;
+            border-radius: 20px;
+            color: white;
+            svg{
+                transform: translateY(3px);
+                color: white;
+            }
+        }
+    }
+
 }
