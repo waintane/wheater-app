@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.328ffe8d.css",
-    "main.js": "/weather-app/static/js/main.d70b2389.js",
-    "static/media/background.jpg": "/weather-app/static/media/background.227253e03f118aeb2397.jpg",
-    "static/media/il-neige.png": "/weather-app/static/media/il-neige.48c6e28f179e1792ed1d.png",
-    "static/media/soleil.png": "/weather-app/static/media/soleil.b972dcf61eb381f03551.png",
-    "static/media/nuageux.png": "/weather-app/static/media/nuageux.e1ed92b6073f4cc94d53.png",
-    "static/media/pluits.png": "/weather-app/static/media/pluits.2af3473347d2e86e7244.png",
-    "index.html": "/weather-app/index.html",
-    "main.328ffe8d.css.map": "/weather-app/static/css/main.328ffe8d.css.map",
-    "main.d70b2389.js.map": "/weather-app/static/js/main.d70b2389.js.map"
+    "main.css": "/wheater-app/static/css/main.0319d984.css",
+    "main.js": "/wheater-app/static/js/main.d70b2389.js",
+    "static/media/background.jpg": "/wheater-app/static/media/background.227253e03f118aeb2397.jpg",
+    "static/media/il-neige.png": "/wheater-app/static/media/il-neige.48c6e28f179e1792ed1d.png",
+    "static/media/soleil.png": "/wheater-app/static/media/soleil.b972dcf61eb381f03551.png",
+    "static/media/nuageux.png": "/wheater-app/static/media/nuageux.e1ed92b6073f4cc94d53.png",
+    "static/media/pluits.png": "/wheater-app/static/media/pluits.2af3473347d2e86e7244.png",
+    "index.html": "/wheater-app/index.html",
+    "main.0319d984.css.map": "/wheater-app/static/css/main.0319d984.css.map",
+    "main.d70b2389.js.map": "/wheater-app/static/js/main.d70b2389.js.map"
   },
   "entrypoints": [
-    "static/css/main.328ffe8d.css",
+    "static/css/main.0319d984.css",
     "static/js/main.d70b2389.js"
   ]
 }
